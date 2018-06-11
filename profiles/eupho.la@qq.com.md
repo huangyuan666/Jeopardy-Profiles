@@ -6,4 +6,4 @@
 * Register IP: 113.251.218.93  
 * Score: 100  
 * Solved challenges: 
-  * [[WEB] md5-vs-injection](https://github.com/SniperOJ/Challenges/blob/master/web/md5-vs-injection.json)  
+  * [[WEB] md5-vs-injection](https://github.com/SniperOJ/Challenges/blob/master/WEB/md5-vs-injection.json)  

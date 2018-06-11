@@ -6,4 +6,4 @@
 * Register IP: 218.76.35.77  
 * Score: 150  
 * Solved challenges: 
-  * [[MISC] compare-flag](https://github.com/SniperOJ/Challenges/blob/master/web/compare-flag.json)  
+  * [[MISC] compare-flag](https://github.com/SniperOJ/Challenges/blob/master/MISC/compare-flag.json)  

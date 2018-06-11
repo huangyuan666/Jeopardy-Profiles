@@ -6,9 +6,9 @@
 * Register IP: 119.147.80.168  
 * Score: 451  
 * Solved challenges: 
-  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/web/2048.json)  
-  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
-  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/web/as-fast-as-you-can.json)  
-  * [[WEB] md5-vs-injection](https://github.com/SniperOJ/Challenges/blob/master/web/md5-vs-injection.json)  
-  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
-  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/WEB/2048.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/WEB/php-weak-type.json)  
+  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/WEB/as-fast-as-you-can.json)  
+  * [[WEB] md5-vs-injection](https://github.com/SniperOJ/Challenges/blob/master/WEB/md5-vs-injection.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/WEB/sniperOJ-web-browser.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/MISC/signin.json)  

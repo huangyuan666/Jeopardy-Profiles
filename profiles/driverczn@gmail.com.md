@@ -6,4 +6,4 @@
 * Register IP: 180.102.117.99  
 * Score: 400  
 * Solved challenges: 
-  * [[PWN] printable](https://github.com/SniperOJ/Challenges/blob/master/web/printable.json)  
+  * [[PWN] printable](https://github.com/SniperOJ/Challenges/blob/master/PWN/printable.json)  

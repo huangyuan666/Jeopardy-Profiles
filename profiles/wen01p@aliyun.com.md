@@ -6,5 +6,5 @@
 * Register IP: 171.88.91.168  
 * Score: 100  
 * Solved challenges: 
-  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/web/as-fast-as-you-can.json)  
-  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
+  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/WEB/as-fast-as-you-can.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/WEB/php-weak-type.json)  

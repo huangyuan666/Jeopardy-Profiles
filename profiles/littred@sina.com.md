@@ -6,4 +6,4 @@
 * Register IP: 60.18.220.21  
 * Score: 1  
 * Solved challenges: 
-  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/MISC/signin.json)  

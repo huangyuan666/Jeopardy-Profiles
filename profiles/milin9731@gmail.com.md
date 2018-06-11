@@ -6,7 +6,7 @@
 * Register IP: 112.224.65.67  
 * Score: 251  
 * Solved challenges: 
-  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
-  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
-  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
-  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/web/as-fast-as-you-can.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/MISC/signin.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/WEB/php-weak-type.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/WEB/sniperOJ-web-browser.json)  
+  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/WEB/as-fast-as-you-can.json)  

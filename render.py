@@ -9,11 +9,13 @@ def get_challenge_by_name(challenge_name):
         if i[1] == challenge_name:
             return i
 
+
 import json
 import glob
 import time
 
 data_folder = 'profiles'
+
 
 def render():
     users = glob.glob("%s/*.json" % (data_folder))
@@ -34,9 +36,10 @@ def render():
         for i in data['solved_challenges']:
             challenge = get_challenge_by_name(i.encode("utf-8"))
             challenge_type = challenge[5].upper()
-            template += "  * [[%s] %s](https://github.com/SniperOJ/Challenges/blob/master/web/%s.json)  \n" % (
+            template += "  * [[%s] %s](https://github.com/SniperOJ/Challenges/blob/master/%s/%s.json)  \n" % (
                 challenge_type,
                 i.encode("utf-8"),
+                challenge_type,
                 i.encode("utf-8"),
             )
         # print template

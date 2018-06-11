@@ -6,5 +6,5 @@
 * Register IP: 112.6.124.185  
 * Score: 11  
 * Solved challenges: 
-  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/web/source.json)  
-  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/MISC/source.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/MISC/signin.json)  

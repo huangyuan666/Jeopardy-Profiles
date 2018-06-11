@@ -6,4 +6,4 @@
 * Register IP: 36.33.164.12  
 * Score: 150  
 * Solved challenges: 
-  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/WEB/sniperOJ-web-browser.json)  
