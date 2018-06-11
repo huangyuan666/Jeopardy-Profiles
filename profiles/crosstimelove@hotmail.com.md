@@ -6,5 +6,5 @@
 * Register IP: 222.18.127.26  
 * Score: 210  
 * Solved challenges: 
-  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/MISC/source.json)  
-  * [[MISC] ctftookit-v1.1.0](https://github.com/SniperOJ/Challenges/blob/master/MISC/ctftookit-v1.1.0.json)  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/misc/source.json)  
+  * [[MISC] ctftookit-v1.1.0](https://github.com/SniperOJ/Challenges/blob/master/misc/ctftookit-v1.1.0.json)  

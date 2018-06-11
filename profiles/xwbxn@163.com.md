@@ -6,8 +6,8 @@
 * Register IP: 219.144.186.146  
 * Score: 510  
 * Solved challenges: 
-  * [[WEB] php-object-injection](https://github.com/SniperOJ/Challenges/blob/master/WEB/php-object-injection.json)  
-  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/MISC/source.json)  
-  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/WEB/php-weak-type.json)  
-  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/WEB/2048.json)  
-  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/WEB/sniperOJ-web-browser.json)  
+  * [[WEB] php-object-injection](https://github.com/SniperOJ/Challenges/blob/master/web/php-object-injection.json)  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/misc/source.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
+  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/web/2048.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  

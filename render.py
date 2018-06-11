@@ -39,7 +39,7 @@ def render():
             template += "  * [[%s] %s](https://github.com/SniperOJ/Challenges/blob/master/%s/%s.json)  \n" % (
                 challenge_type,
                 i.encode("utf-8"),
-                challenge_type,
+                challenge_type.lower(),
                 i.encode("utf-8"),
             )
         # print template

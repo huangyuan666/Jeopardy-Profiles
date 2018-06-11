@@ -6,6 +6,6 @@
 * Register IP: 117.140.191.121  
 * Score: 16  
 * Solved challenges: 
-  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/MISC/source.json)  
-  * [[MISC] talk-with-the-ai-robot](https://github.com/SniperOJ/Challenges/blob/master/MISC/talk-with-the-ai-robot.json)  
-  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/MISC/signin.json)  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/misc/source.json)  
+  * [[MISC] talk-with-the-ai-robot](https://github.com/SniperOJ/Challenges/blob/master/misc/talk-with-the-ai-robot.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/misc/signin.json)  

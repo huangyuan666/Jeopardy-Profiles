@@ -6,4 +6,4 @@
 * Register IP: 41.251.15.159  
 * Score: 300  
 * Solved challenges: 
-  * [[PWN] sctf-formate](https://github.com/SniperOJ/Challenges/blob/master/PWN/sctf-formate.json)  
+  * [[PWN] sctf-formate](https://github.com/SniperOJ/Challenges/blob/master/pwn/sctf-formate.json)  
