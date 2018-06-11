@@ -6,9 +6,9 @@
 * Register IP: 119.147.80.168  
 * Score: 451  
 * Solved challenges: 
-  * 2048  
-  * php-weak-type  
-  * as fast as you can  
-  * md5-vs-injection  
-  * SniperOJ-Web-Browser  
-  * 真正的签到题  
+  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/web/2048.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
+  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/web/as-fast-as-you-can.json)  
+  * [[WEB] md5-vs-injection](https://github.com/SniperOJ/Challenges/blob/master/web/md5-vs-injection.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  

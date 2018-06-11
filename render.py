@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+from challenges import challenges
+
+
+def get_challenge_by_name(challenge_name):
+    for i in challenges:
+        if i[1] == challenge_name:
+            return i
+
 import json
 import glob
 import time
@@ -24,7 +32,13 @@ def render():
         template += "* Score: %s  \n" % (data['score'])
         template += "* Solved challenges: \n"
         for i in data['solved_challenges']:
-            template += "  * %s  \n" % (i.encode("utf-8"))
+            challenge = get_challenge_by_name(i.encode("utf-8"))
+            challenge_type = challenge[5].upper()
+            template += "  * [[%s] %s](https://github.com/SniperOJ/Challenges/blob/master/web/%s.json)  \n" % (
+                challenge_type,
+                i.encode("utf-8"),
+                i.encode("utf-8"),
+            )
         # print template
         with open("%s/%s.md" % (data_folder, email), "w") as f:
             f.write(template)

@@ -6,4 +6,4 @@
 * Register IP: 128.199.65.122  
 * Score: 50  
 * Solved challenges: 
-  * php-weak-type  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  

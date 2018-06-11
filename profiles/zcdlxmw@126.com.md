@@ -6,4 +6,4 @@
 * Register IP: 219.147.10.194  
 * Score: 150  
 * Solved challenges: 
-  * SniperOJ-Web-Browser  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  

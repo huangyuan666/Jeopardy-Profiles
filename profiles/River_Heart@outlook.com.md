@@ -6,4 +6,4 @@
 * Register IP: 117.136.62.56  
 * Score: 200  
 * Solved challenges: 
-  * php-object-injection  
+  * [[WEB] php-object-injection](https://github.com/SniperOJ/Challenges/blob/master/web/php-object-injection.json)  

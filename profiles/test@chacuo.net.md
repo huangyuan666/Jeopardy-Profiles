@@ -6,5 +6,5 @@
 * Register IP: 27.19.71.112  
 * Score: 200  
 * Solved challenges: 
-  * bof-x86-64  
-  * shellcode-x86-64  
+  * [[PWN] bof-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/bof-x86-64.json)  
+  * [[PWN] shellcode-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/shellcode-x86-64.json)  

@@ -6,6 +6,6 @@
 * Register IP: 123.192.12.253  
 * Score: 251  
 * Solved challenges: 
-  * 2048  
-  * SniperOJ-Web-Browser  
-  * 真正的签到题  
+  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/web/2048.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  

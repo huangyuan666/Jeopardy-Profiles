@@ -6,6 +6,6 @@
 * Register IP: 182.91.232.138  
 * Score: 156  
 * Solved challenges: 
-  * SniperOJ-Web-Browser  
-  * 真正的签到题  
-  * Talk with the AI robot  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[MISC] talk-with-the-ai-robot](https://github.com/SniperOJ/Challenges/blob/master/web/talk-with-the-ai-robot.json)  

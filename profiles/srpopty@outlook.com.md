@@ -6,10 +6,10 @@
 * Register IP: 121.249.204.162  
 * Score: 566  
 * Solved challenges: 
-  * 真正的签到题  
-  * Source  
-  * php-weak-type  
-  * CTFTookit_v1.1.0  
-  * Talk with the AI robot  
-  * compare  
-  * SniperOJ-Web-Browser  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/web/source.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
+  * [[MISC] ctftookit-v1.1.0](https://github.com/SniperOJ/Challenges/blob/master/web/ctftookit-v1.1.0.json)  
+  * [[MISC] talk-with-the-ai-robot](https://github.com/SniperOJ/Challenges/blob/master/web/talk-with-the-ai-robot.json)  
+  * [[STEGO] compare](https://github.com/SniperOJ/Challenges/blob/master/web/compare.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  

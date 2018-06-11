@@ -6,4 +6,4 @@
 * Register IP: 220.181.171.122  
 * Score: 150  
 * Solved challenges: 
-  * compare  
+  * [[STEGO] compare](https://github.com/SniperOJ/Challenges/blob/master/web/compare.json)  

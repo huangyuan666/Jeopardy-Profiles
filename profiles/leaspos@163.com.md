@@ -6,4 +6,4 @@
 * Register IP: 180.160.58.67  
 * Score: 10  
 * Solved challenges: 
-  * Source  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/web/source.json)  

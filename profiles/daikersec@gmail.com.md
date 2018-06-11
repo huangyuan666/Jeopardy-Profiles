@@ -6,4 +6,4 @@
 * Register IP: 58.23.13.246  
 * Score: 1  
 * Solved challenges: 
-  * 真正的签到题  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  

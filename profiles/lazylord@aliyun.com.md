@@ -6,6 +6,6 @@
 * Register IP: 106.2.231.15  
 * Score: 201  
 * Solved challenges: 
-  * 真正的签到题  
-  * SniperOJ-Web-Browser  
-  * php-weak-type  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  

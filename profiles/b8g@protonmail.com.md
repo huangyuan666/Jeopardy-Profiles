@@ -6,12 +6,12 @@
 * Register IP: 106.186.125.238  
 * Score: 761  
 * Solved challenges: 
-  * as fast as you can  
-  * php-weak-type  
-  * compare  
-  * Source  
-  * BaSO4  
-  * 2048  
-  * md5-vs-injection  
-  * CTFTookit_v1.1.0  
-  * 真正的签到题  
+  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/web/as-fast-as-you-can.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
+  * [[STEGO] compare](https://github.com/SniperOJ/Challenges/blob/master/web/compare.json)  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/web/source.json)  
+  * [[STEGO] baso4](https://github.com/SniperOJ/Challenges/blob/master/web/baso4.json)  
+  * [[WEB] 2048](https://github.com/SniperOJ/Challenges/blob/master/web/2048.json)  
+  * [[WEB] md5-vs-injection](https://github.com/SniperOJ/Challenges/blob/master/web/md5-vs-injection.json)  
+  * [[MISC] ctftookit-v1.1.0](https://github.com/SniperOJ/Challenges/blob/master/web/ctftookit-v1.1.0.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  

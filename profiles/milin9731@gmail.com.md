@@ -6,7 +6,7 @@
 * Register IP: 112.224.65.67  
 * Score: 251  
 * Solved challenges: 
-  * 真正的签到题  
-  * php-weak-type  
-  * SniperOJ-Web-Browser  
-  * as fast as you can  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[WEB] as-fast-as-you-can](https://github.com/SniperOJ/Challenges/blob/master/web/as-fast-as-you-can.json)  

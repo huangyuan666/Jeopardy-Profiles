@@ -6,6 +6,6 @@
 * Register IP: 218.68.107.179  
 * Score: 650  
 * Solved challenges: 
-  * php-object-injection  
-  * guess the code  
-  * SniperOJ-Web-Browser  
+  * [[WEB] php-object-injection](https://github.com/SniperOJ/Challenges/blob/master/web/php-object-injection.json)  
+  * [[WEB] guess-the-code](https://github.com/SniperOJ/Challenges/blob/master/web/guess-the-code.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  

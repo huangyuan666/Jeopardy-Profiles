@@ -6,5 +6,5 @@
 * Register IP: 219.217.246.30  
 * Score: 101  
 * Solved challenges: 
-  * 真正的签到题  
-  * bof-x86-64  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
+  * [[PWN] bof-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/bof-x86-64.json)  

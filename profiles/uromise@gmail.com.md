@@ -6,5 +6,5 @@
 * Register IP: 219.239.227.245  
 * Score: 200  
 * Solved challenges: 
-  * good-luck  
-  * shellcode-x86-64  
+  * [[PWN] good-luck](https://github.com/SniperOJ/Challenges/blob/master/web/good-luck.json)  
+  * [[PWN] shellcode-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/shellcode-x86-64.json)  

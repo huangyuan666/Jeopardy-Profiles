@@ -6,7 +6,7 @@
 * Register IP: 105.103.115.0  
 * Score: 700  
 * Solved challenges: 
-  * php-object-injection  
-  * guess the code  
-  * SniperOJ-Web-Browser  
-  * php-weak-type  
+  * [[WEB] php-object-injection](https://github.com/SniperOJ/Challenges/blob/master/web/php-object-injection.json)  
+  * [[WEB] guess-the-code](https://github.com/SniperOJ/Challenges/blob/master/web/guess-the-code.json)  
+  * [[WEB] sniperOJ-web-browser](https://github.com/SniperOJ/Challenges/blob/master/web/sniperOJ-web-browser.json)  
+  * [[WEB] php-weak-type](https://github.com/SniperOJ/Challenges/blob/master/web/php-weak-type.json)  

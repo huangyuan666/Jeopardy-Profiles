@@ -6,10 +6,10 @@
 * Register IP: 116.1.3.243  
 * Score: 811  
 * Solved challenges: 
-  * Source  
-  * CTFTookit_v1.1.0  
-  * shellcode-x86-64  
-  * bof-x86-64  
-  * shorter-shellcode-x86-64  
-  * shorter-shellcode-x86  
-  * 真正的签到题  
+  * [[MISC] source](https://github.com/SniperOJ/Challenges/blob/master/web/source.json)  
+  * [[MISC] ctftookit-v1.1.0](https://github.com/SniperOJ/Challenges/blob/master/web/ctftookit-v1.1.0.json)  
+  * [[PWN] shellcode-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/shellcode-x86-64.json)  
+  * [[PWN] bof-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/bof-x86-64.json)  
+  * [[PWN] shorter-shellcode-x86-64](https://github.com/SniperOJ/Challenges/blob/master/web/shorter-shellcode-x86-64.json)  
+  * [[PWN] shorter-shellcode-x86](https://github.com/SniperOJ/Challenges/blob/master/web/shorter-shellcode-x86.json)  
+  * [[MISC] signin](https://github.com/SniperOJ/Challenges/blob/master/web/signin.json)  
