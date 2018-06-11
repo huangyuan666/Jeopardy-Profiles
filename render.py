@@ -51,7 +51,7 @@ def get_score(element):
     return element['score']
 
 
-def render_root():
+def render_root(size=16):
     users = glob.glob("%s/*.json" % (data_folder))
     template = ""
     headers = [
@@ -70,19 +70,31 @@ def render_root():
 
     sorted_users.sort(key=get_score, reverse=True)
 
-    for data in sorted_users:
+    for data in sorted_users[0:size]:
         template += '|[%s](%s)|%s|%s|  \n' % (
             data['username'].encode("utf-8"),
             "%s/%s.md" % (data_folder, data['email'].encode("utf-8")),
             data['university'].encode("utf-8"),
             data['score'],
         )
-    with open("README.md", "w") as f:
-        f.write(template)
+    return template
 
+
+head = '''## Profile & Rank page
+
+* Full rank: [RANK.md](RANK.md)
+
+#### Top 16
+'''
 
 def main():
-    render_root()
+    template = render_root()
+    with open("README.md", "w") as f:
+        f.write(head)
+        f.write(template)
+    template = render_root(size=None)
+    with open("RANK.md", "w") as f:
+        f.write(template)
     render()
 
 
