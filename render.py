@@ -56,7 +56,7 @@ def render_root():
     for data in sorted_users:
         template += '|[%s](%s)|%s|%s|  \n' % (
             data['username'].encode("utf-8"),
-            "%s/%s.json" % (data_folder, data['email'].encode("utf-8")),
+            "%s/%s.md" % (data_folder, data['email'].encode("utf-8")),
             data['university'].encode("utf-8"),
             data['score'],
         )
